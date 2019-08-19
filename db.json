@@ -1,17 +1,9 @@
 {
   "ios": {
-    "alert": {
-        "message": "We are currently performing server maintenance. Please try again later.",
-        "blocking": true
-      },
-      "optionalUpdate": {
-        "optionalVersion": "57",
-        "message": "A new version of the application is available, please click below to update to the latest version."
-      },
-      "requiredUpdate": {
-        "minimumVersion": "58",
-        "message": "A new version of the application is available and is required to continue, please click below to update to the latest version."
-      }
+    "requiredUpdate": {
+      "minimumVersion": "2.0.7",
+      "message": "An update is required to continue using this app."
+    }
   },
     "android": {
       "alert": {
