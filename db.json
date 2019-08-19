@@ -15,9 +15,9 @@
     },
   
   "ios": {
-    "requiredUpdate": {
-      "minimumVersion": "2.1.0",
-      "message": "An update is required to continue using this app."
+    "alert": {
+      "message": "We are currently working to resolve intermittent web service issues. We apologize if your app experience is affected.",
+      "blocking": true
     }
   }
 }
