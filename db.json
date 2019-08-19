@@ -5,11 +5,11 @@
         "blocking": true
       },
       "optionalUpdate": {
-        "optionalVersion": "2.0.6",
+        "optionalVersion": "57",
         "message": "A new version of the application is available, please click below to update to the latest version."
       },
       "requiredUpdate": {
-        "minimumVersion": "2.0.7",
+        "minimumVersion": "58",
         "message": "A new version of the application is available and is required to continue, please click below to update to the latest version."
       }
   },
