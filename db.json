@@ -1,7 +1,7 @@
 {
   "ios": {
     "requiredUpdate": {
-      "minimumVersion": "2.0.7",
+      "minimumVersion": "2.1",
       "message": "An update is required to continue using this app."
     }
   },
