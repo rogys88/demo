@@ -15,7 +15,7 @@
         "message": "A new version of the application is available, please click below to update to the latest version."
       },
       "requiredUpdate": {
-        "minimumVersion": "59",
+        "minimumVersion": "58",
         "message": "A new version of the application is available and is required to continue, please click below to update to the latest version."
       }
     }
