@@ -1,14 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "ios": {
+    "requiredUpdate": {
+      "minimumVersion": "1.1",
+      "message": "An update is required to continue using this app."
+    }
+  },
+    "android": {
+      "alert": {
+        "message": "We are currently performing server maintenance. Please try again later.",
+        "blocking": true
+      },
+      "optionalUpdate": {
+        "optionalVersion": "6",
+        "message": "A new version of the application is available, please click below to update to the latest version."
+      },
+      "requiredUpdate": {
+        "minimumVersion": "7",
+        "message": "A new version of the application is available and is required to continue, please click below to update to the latest version."
+      }
+    }
 }
+
