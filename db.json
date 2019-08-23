@@ -15,10 +15,18 @@
     },
   
   "ios": {
-    "alert": {
-      "message": "We are currently working to resolve intermittent web service issues. We apologize if your app experience is affected.",
-      "blocking": true
+      "alert": {
+        "message": "We are currently performing server maintenance. Please try again later.",
+        "blocking": false
+      },
+      "optionalUpdate": {
+        "optionalVersion": "2.0.7",
+        "message": "A new version of the application is available, please click below to update to the latest version."
+      },
+      "requiredUpdate": {
+        "minimumVersion": "2.0.6",
+        "message": "A new version of the application is available and is required to continue, please click below to update to the latest version."
+      }
     }
-  }
 }
 
