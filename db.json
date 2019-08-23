@@ -15,9 +15,9 @@
     },
   
   "ios": {
-      "alert": {
-        "message": "We are currently performing server maintenance. Please try again later.",
-        "blocking": true
+      "optionalUpdate": {
+        "optionalVersion": "2.1",
+        "message": "A new version of the application is available, please click below to update to the latest version."
       }
     }
 }
