@@ -16,7 +16,7 @@
   
   "ios": {
       "optionalUpdate": {
-        "optionalVersion": "2.1",
+        "optionalVersion": "2.0.7",
         "message": "A new version of the application is available, please click below to update to the latest version."
       }
     }
